@@ -39,7 +39,7 @@ Crafting beautiful user experiences and building meaningful products.
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
 ### Tools & Others
